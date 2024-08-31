@@ -19,4 +19,4 @@ README dosyası, bir adet  index.html barındırıyor.
 
 
  # License 
- [MIT](https://www.mit.edu/)
+ [MIT](https://choosealicense.com/licenses/mit/)
